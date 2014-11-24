@@ -1,0 +1,13 @@
+cn/edu/seu/eye/module/base/entity/management/Configuration.class
+cn/edu/seu/eye/module/base/service/management/IPermission.class
+cn/edu/seu/eye/module/base/exception/ResourceException.class
+cn/edu/seu/eye/module/base/service/management/IConfiguration.class
+cn/edu/seu/eye/module/base/dao/management/IUserRoleDao.class
+cn/edu/seu/eye/module/base/exception/NotFoundException.class
+cn/edu/seu/eye/module/base/resource/BaseResource.class
+cn/edu/seu/eye/module/base/entity/management/UserRole.class
+cn/edu/seu/eye/module/base/resource/management/ConfigurationResource.class
+cn/edu/seu/eye/module/base/resource/IService.class
+cn/edu/seu/eye/module/base/presentation/Result.class
+cn/edu/seu/eye/module/base/dao/management/impl/UserRoleDaoImpl.class
+cn/edu/seu/eye/module/base/entity/management/Permission.class
